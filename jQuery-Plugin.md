@@ -5,7 +5,10 @@ jQuery Plugin
 
 ##slide广告轮播
 
-1. SmallSlider 图片轮播插件
+__1. SmallSlider 图片轮播插件__
 
-![small-slider](./images/smallslider.jpg "small-slider")
+![small-slider](./images/smallslider.jpg "small-slider")  
 <http://www.cssue.com/demo/small-slider/index.html>
+
+
+2. 
