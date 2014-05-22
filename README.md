@@ -1,4 +1,4 @@
 javascript
 ==========
 
-javascript笔记
+javascript note
