@@ -1,8 +1,16 @@
-javascript
-==========
+JavaScript Note
+===============
 
-## JavaScript 简介
-略
+#序
+
+14年7月上旬和中旬复习js的基础和深化学习js, 计划整理笔记到7月20号.
+
+
+**目录列表**
+
+
+
+
 
 
 ## JavaScript 简单实例
