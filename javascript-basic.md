@@ -37,7 +37,7 @@ var a; // 这是单行注释
  * 这是多行注释
  */
 function test(){
-    var aa = 111;
+    var aa = 111; // 又是一行注释
 }
 ```
 
@@ -45,6 +45,6 @@ function test(){
 ##JavaScript的空白,换行与缩进的规范
 
 - JavaScript语句是以分号`;`结束
-- 语句块中不用分红结束
+- 语句块中不用分号结束, 如`function test() {return false;}`的结尾没有分号
 - JavaScript中是忽略多余空白符和换行的
 - 在语句巨快中缩进建议用四个空格替换tab符, 有助于阅读代码
